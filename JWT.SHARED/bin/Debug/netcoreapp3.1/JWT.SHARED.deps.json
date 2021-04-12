@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JWT.SHARED/1.0.0": {
+        "runtime": {
+          "JWT.SHARED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JWT.SHARED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G99Fb+SD6f9kW5jAC3mpJtP20AywVftlu7LQzxMrC7f+/BKhTldlCx0bolKknyLFR1WmHozKZSE2o1SQjxHL/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hüseyin\\source\\repos\\JWT\\MiniApi1\\MiniApi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

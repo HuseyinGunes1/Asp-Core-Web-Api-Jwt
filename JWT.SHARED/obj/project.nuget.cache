@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IA6tJD8zfo4bw/KNv4CHWqnvxKk3GIGHx1reEA5kJ2lQl/zLUrvbpzS/9lQrPxZ8JV+SYLeJU4CH3yf6EgXWjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hüseyin\\source\\repos\\JWT\\JWT.SHARED\\JWT.SHARED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

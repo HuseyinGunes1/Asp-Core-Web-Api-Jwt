@@ -1,0 +1,12 @@
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\bin\Debug\netcoreapp3.1\JWT.CORE.deps.json
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\bin\Debug\netcoreapp3.1\JWT.CORE.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\bin\Debug\netcoreapp3.1\JWT.CORE.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.csprojAssemblyReference.cache
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.AssemblyInfoInputs.cache
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.AssemblyInfo.cs
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.csproj.CoreCompileInputs.cache
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\bin\Debug\netcoreapp3.1\JWT.SHARED.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\bin\Debug\netcoreapp3.1\JWT.SHARED.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.CORE\obj\Debug\netcoreapp3.1\JWT.CORE.csproj.CopyComplete

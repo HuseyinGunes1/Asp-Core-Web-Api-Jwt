@@ -1,0 +1,16 @@
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.SERVİCE.deps.json
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.SERVİCE.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.SERVİCE.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.CORE.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.DATA.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.DATA.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.CORE.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.csprojAssemblyReference.cache
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.AssemblyInfoInputs.cache
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.AssemblyInfo.cs
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.csproj.CoreCompileInputs.cache
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.csproj.CopyComplete
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\obj\Debug\netcoreapp3.1\JWT.SERVİCE.pdb
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.SHARED.dll
+C:\Users\hüseyin\source\repos\JWT\JWT.SERVİCE\bin\Debug\netcoreapp3.1\JWT.SHARED.pdb
